@@ -1,0 +1,1 @@
+Here is classification problem we solve MNIST dataset using AI.
